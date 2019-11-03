@@ -1,0 +1,7 @@
+rencana konten
+-membuat website
+bahasa html
+css
+php
+javascript
+database
