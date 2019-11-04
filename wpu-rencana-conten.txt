@@ -5,3 +5,15 @@ css ->desainnya
 php ->datanya
 javascript ->interaksinya
 database ->penyimpanan datanya
+
+
+full stack/expert-> yang di pelajari->stepnya
+html
+css
+javascript
+php
+
+hosting 
+domain
+server
+api
